@@ -3,8 +3,22 @@
 
 ## Command Script
 - ./run.sh
-  - Run scripts supporting text preparation, plotting etc...
+  - Run scripts supporting jupyter startup
 
 ## Dockerfile
 - Leveraging Docker image
 - docker build -t jupy .
+
+
+## Dependencies
+- pip3 install numpy
+- pip3 install pandas
+- pip3 install scipy
+- pip3 install sklearn
+- pip3 install matplotlib
+
+## Notebooks
+- topic_modelling1
+- topic_modelling2
+- LDA
+- pandas
