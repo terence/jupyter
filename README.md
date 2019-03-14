@@ -5,10 +5,6 @@
 - ./run.sh
   - Run scripts supporting jupyter startup
 
-## Dockerfile
-- Leveraging Docker image
-- docker build -t jupy .
-
 
 ## Dependencies
 - pip3 install numpy
